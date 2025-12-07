@@ -21,7 +21,7 @@ Passo a passo:
 No terminal que abre automaticamente, cole e execute:
 
 ```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/NotGamerPiie/idx-vps/main/vps.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/jzvoorhees/vpstest/main/vps.sh)
 ```
 Pronto! O menu agora está 100% em português brasileiro e super fácil de usar.
 
